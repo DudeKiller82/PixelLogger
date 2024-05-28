@@ -1,0 +1,13 @@
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Debug\PixelLogger.exe.config
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Debug\PixelLogger.exe
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Debug\PixelLogger.pdb
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Debug\PixelLogger.xml
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.PixelLogger.resources
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.Resources.resources
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.vbproj.GenerateResource.Cache
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.exe
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.xml
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.pdb
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.vbprojResolveAssemblyReference.cache
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\Interop.Office.dll
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Debug\PixelLogger.vbproj.ResolveComReference.cache

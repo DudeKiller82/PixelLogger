@@ -1,0 +1,13 @@
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Release\PixelLogger.exe.config
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Release\PixelLogger.exe
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Release\PixelLogger.pdb
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\bin\Release\PixelLogger.xml
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.PixelLogger.resources
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.Resources.resources
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.vbproj.GenerateResource.Cache
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.exe
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.xml
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.pdb
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.vbprojResolveAssemblyReference.cache
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\PixelLogger.vbproj.ResolveComReference.cache
+C:\Users\p14\Desktop\PixelLogger\PixelLogger\obj\Release\Interop.Office.dll
